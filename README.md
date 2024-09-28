@@ -21,3 +21,5 @@ check.css
 detail.html,
 detaill.css,
 detailll.js
+
+ ### 2 images: one bg image and one logo put that in the same folder named images and if any errors are shown, put the relative path of the image
